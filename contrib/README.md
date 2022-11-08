@@ -2,7 +2,7 @@ Apache Thrift contrib folder
 ========================================
 
 The code in the /contrib folder is not maintained on a regular basis and its purpose is mainly to serve 
-as repository of (a) sample code what can be done with Thrift and (b) possibly helpfil utilities or other 
+as repository of (a) sample code what can be done with Thrift and (b) possibly helpful utilities or other 
 potentially useful stuff. 
 
 You are of course free to provide patches for it, but other than that, the contrib stuff may or may not 
